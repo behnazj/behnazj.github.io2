@@ -25,7 +25,7 @@ params:
     description: "I am a Professor of Subject at the University of Place. My research covers various topics.
 consequat."
     author: Name
-    # googleAnalyticsID: "G-XXXXX"
+    googleAnalyticsID: "G-WDNCFJ7MSL"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
