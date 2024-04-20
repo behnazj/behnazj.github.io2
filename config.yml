@@ -53,12 +53,12 @@ params:
           imageHeight: 160
           imageTitle: Dr. Behnaz Jarrahi
           buttons:
-            - name: School
-              url: https://www.stanford.edu/
             - name: LinkedIn
               url: https://www.linkedin.com/in/behnaz-jarrahi
-            - name: Research
-              url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=behnaz+jarrahi&btnG=
+            - name: Education
+              url: courses/
+            - name: Awards
+              url: papers/
     socialIcons:
         - name: GitHub
           url: https://github.com/behnazj
