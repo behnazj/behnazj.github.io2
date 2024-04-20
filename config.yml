@@ -1,5 +1,5 @@
 baseURL: "https://behnazj.github.io/" 
-title: Prof. Name
+title: Dr. Behnaz Jarrahi
 paginate: 20
 theme: PaperMod
 
@@ -22,8 +22,7 @@ menu:
           weight: 3 
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
+    description: "I am a brain scientist who studies the human brain using neuroimaging and neuropsychological techniques."
     author: Name
     googleAnalyticsID: "G-WDNCFJ7MSL"
     DateFormat: "January 2006"
@@ -47,44 +46,28 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          title: Dr. Behnaz Jarrahi
+          subtitle: "I am an instructor at Stanford University, where I conduct research on the human brain using neuroimaging and neuropsychological techniques. I earned a Master of Science degree in Management from Stanford University and a Doctor of Science degree in Electrical Engineering and Information Technology from ETH Zurich. I have conducted postdoctoral research at the UCLA Semel Institute for Neuroscience and the Stanford School of Medicine. My research interests are diverse and include interoception, consciousness, brain neuroplasticity, and healthcare innovation."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Dr. Behnaz Jarrahi
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
+            - name: School
+              url: https://www.stanford.edu/
+            - name: LinkedIn
+              url: www.linkedin.com/in/behnaz-jarrahi
             - name: Tags
               url: tags/
-            - name: Archive
-              url: archive/
     socialIcons:
-        - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+        - name: GitHub
+          url: https://github.com/behnazj
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://scholar.google.com/
 
     assets:
         disableHLJS: true
@@ -93,7 +76,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Dr. Behnaz Jarrahi"
       icon: favicon.ico
       iconHeight: 18
 
