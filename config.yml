@@ -22,7 +22,7 @@ menu:
           weight: 3 
 
 params:
-    description: "I am a scientist who studies the human brain using neuroimaging and neuropsychological techniques."
+    description: "I study the human brain using neuroimaging and neuropsychological techniques."
     author: Name
     googleAnalyticsID: "G-WDNCFJ7MSL"
     DateFormat: "January 2006"
