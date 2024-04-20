@@ -57,8 +57,7 @@ params:
               url: https://www.stanford.edu/
             - name: LinkedIn
               url: https://www.linkedin.com/in/behnaz-jarrahi
-            - name: Github
-              url: https://github.com/behnazj/
+
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
