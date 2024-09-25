@@ -53,8 +53,6 @@ params:
           imageHeight: 160
           imageTitle: Dr. Behnaz Jarrahi
           buttons:
-            - name: School
-              url: https://med.stanford.edu/profiles/behnaz-jarrahi
             - name: LinkedIn
               url: https://www.linkedin.com/in/behnaz-jarrahi
 
