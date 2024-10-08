@@ -47,7 +47,7 @@ params:
     profileMode:
           enabled: true
           title: Dr. Behnaz Jarrahi
-          subtitle: "I study the human brain using neuroimaging and neuropsychological techniques. I explore the mysteries of the mind through a Philosophical Lens. I have conducted postdoctoral research at the UCLA Semel Institute for Neuroscience and the Stanford School of Medicine."
+          subtitle: "I study the human brain using neuroimaging and neuropsychological techniques. I explore the mysteries of the mind through a Philosophical Lens. While my scholarly interests are broad, my primary focus has been on interoception, theories of consciousness, and healthcare innovation."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
