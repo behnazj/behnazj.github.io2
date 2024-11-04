@@ -47,15 +47,12 @@ params:
     profileMode:
           enabled: true
           title: Dr. Behnaz Jarrahi
-          subtitle: "I study the human brain using neuroimaging and neuropsychological techniques. I explore the mysteries of the mind through a Philosophical Lens. While my scholarly interests are broad, my primary focus has been on interoception, nature of consciousness, and healthcare innovation."
+          subtitle: "I study the human brain using neuroimaging and neuropsychological techniques. I explore the mysteries of the mind through a Philosophical Lens. I have diverse scholarly interests, particularly in interoception, the nature of consciousness, and healthcare innovation."
           imageUrl: "picture100.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Dr. Behnaz Jarrahi
-          buttons:
-            - name: LinkedIn
-              url: https://www.linkedin.com/in/behnaz-jarrahi
-
+         
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
