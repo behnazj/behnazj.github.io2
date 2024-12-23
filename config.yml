@@ -1,6 +1,5 @@
 baseURL: "https://behnazj.github.io/" 
 title: Dr. Behnaz Jarrahi
-paginate: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
